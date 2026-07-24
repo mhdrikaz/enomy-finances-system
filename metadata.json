@@ -1,0 +1,6 @@
+{
+  "name": "Enomy-Finances System",
+  "description": "Bespoke financial system for Enomy-Finances supporting currency conversion, personalized investment quotes, customer management, diagnostic logging, and system administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
